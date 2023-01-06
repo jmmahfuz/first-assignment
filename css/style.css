@@ -12,10 +12,12 @@
     height: 808px;
     text-align: right;
     padding-right: 200px;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .banner_title {
-    font-size: 50px;
+    font-size: 65px;
     font-weight: 700;
     padding: 216px 0px 24px;
 }
@@ -72,6 +74,28 @@
     color: #444343;
     line-height: 26px;
     padding-bottom: 8px;
+}
+
+.planing_section {
+    padding: 0px 230px 130px;
+}
+
+.planing_section_title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.planing_section_part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 90px;
+}
+
+.planing_section_icon {
+
+    text-align: center;
 }
 
 /* main part end */
