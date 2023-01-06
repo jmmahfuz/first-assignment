@@ -42,9 +42,25 @@
 
 
 /* main part start */
-
-
-
+.portfolio{
+    padding: 130px 206px;
+    gap: 87px;
+    display: flex;
+}
+.portfolio_description_section{
+    padding-top: 230px;
+}
+.portfolio_title{
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+.portfolio_description{
+    font-size: 18px;
+    font-weight: 400;
+    color: #444343;
+    padding-bottom: 16px;
+}
 
 
 /* main part end */
